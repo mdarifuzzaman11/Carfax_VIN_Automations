@@ -2,8 +2,7 @@
 
 ## Description
 
-Price Checker using VIN# in Carfax. This Project will automatially show the Price of the Car for Private Party Value and Trade-In Value
-this helps eleminate pressing too many keys to get price of the car all we have to do is enter the VIN# and it does the rest of the work for us.
+Price Checker using VIN# in Carfax. This Project will automatically show the Price of the Car for Private Party Value and Trade-In Value this helps eliminate pressing too many keys to get the price of the car all we have to do is enter the VIN# and it does the rest of the work for us.
 
 
 ## Getting Started
