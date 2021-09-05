@@ -1,5 +1,10 @@
 # Carfax_VIN_Automations
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mdarifuzzaman11/Carfax_VIN_Automations?style=for-the-badge) 
+![APM](https://img.shields.io/apm/l/test?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/mdarifuzzaman11/Carfax_VIN_Automations?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mdarifuzzaman11?style=for-the-badge)
+
 ## Description
 
 Price Checker using VIN# in Carfax. This Project will automatically show the Price of the Car for Private Party Value and Trade-In Value this helps eliminate pressing too many keys to get the price of the car all we have to do is enter the VIN# and it does the rest of the work for us.
